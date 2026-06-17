@@ -1,0 +1,5 @@
+proxmox_exporter
+*.o
+*.log
+*.swp
+.DS_Store
